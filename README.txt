@@ -1,4 +1,4 @@
-HOW TO SET DOWNLOAD PATCH
+HOW TO SET DOWNLOAD PATH CORRECTLY.
 
 Download path           -      /content/drive/MyDrive
 Album folder format     -      default
